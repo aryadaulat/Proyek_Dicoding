@@ -2,8 +2,8 @@
     package="com.firstapparya.flutter_firstapp">
 	 <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="flutter_firstapp"
-        android:name="Proyek_Dicoding"
+        android:label="Proyek_Dicoding"
+        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
